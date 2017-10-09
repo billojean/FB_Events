@@ -1,0 +1,109 @@
+ 
+body {
+  background-color: #0D3059;
+  color: white;
+  text-align:center;
+}
+
+@media  (max-width: 320px) {
+    
+   body {
+  font-size: 0.9em;
+  background-color: #0D3059;
+  color: white;
+  text-align:center;
+}
+
+input[type="search"] {
+	color: black;
+	border-bottom:black;
+	border-left:black;
+	border-right:black;
+	border-top:black;
+	width:100px;
+	height:15px;
+	background-color: #F5BB64;
+}
+
+input[type="date"] {
+	color: black;
+	border-bottom:black;
+	border-left:black;
+	border-right:black;
+	border-top:black;
+	width:100px;
+	height:15px;
+	background-color: #F5BB64;
+}
+
+input[type="button"] {
+height:15px;
+background-color: #7F8484;
+border-bottom:black;
+border-left:black;
+border-right:black;
+border-top:black;
+color: black;
+}
+
+}
+
+.a{
+	width:25em;
+
+  }
+
+.pic{
+	max-width:100%;
+	}
+
+.map{
+	max-width:100%;
+}
+
+.title{
+	background-color: #081A30;
+}
+
+hr {
+border-width: 0px;
+width: 100%;
+color: #f00;
+background-color: #f00;
+height: 3px;
+}
+
+td{
+    border: solid black;
+    background-color: #081A30;
+}
+
+table{
+  	width:100%;
+   	 }
+
+.button{
+height:20px;
+background-color: #7F8484;
+border-bottom:black;
+border-left:black;
+border-right:black;
+border-top:black;
+color: black;
+font-size: 0.9em;
+}
+
+.search{	
+	color: black;
+	width:180px;
+	height:20px;
+	font-size: 0.9em;
+}
+
+.date
+{	
+	color: black;
+	height:20px;
+	font-size: 0.9em;
+}
+
